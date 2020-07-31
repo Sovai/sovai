@@ -1,4 +1,10 @@
 module.exports = {
+  globals: {
+    _: true,
+    Form: true,
+    UIkit: true,
+    api: true,
+  },
   root: true,
   env: {
     browser: true,

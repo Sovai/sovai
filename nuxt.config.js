@@ -24,17 +24,21 @@ export default {
         content: process.env.npm_package_description || '',
       },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'stylesheet', href: '/css/uikit.sovai.min.css' },
+    ],
+    script: [{ src: '/js/uikit.min.js' }, { src: '/js/uikit-icons.min.js' }],
   },
   /*
    ** Global CSS
    */
-  css: ['element-ui/lib/theme-chalk/index.css'],
+  css: ['@/assets/scss/app.scss'],
   /*
    ** Plugins to load before mounting the App
    ** https://nuxtjs.org/guide/plugins
    */
-  plugins: ['@/plugins/element-ui'],
+  plugins: ['@/plugins/animejs'],
   /*
    ** Auto import components
    ** See https://nuxtjs.org/api/configuration-components
