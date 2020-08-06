@@ -19,9 +19,10 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
-        hid: 'description',
-        name: 'description',
-        content: process.env.npm_package_description || '',
+        hid: 'sovai',
+        name: 'sovai kean',
+        content:
+          'Sovai Kean, fullstack web developer, salesforce consultant, BIG introvert',
       },
     ],
     link: [

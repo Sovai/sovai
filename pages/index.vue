@@ -1022,11 +1022,22 @@
 <script>
 // import Splash from '~/components/Splash'
 export default {
-  // components: { Splash },
   methods: {
     external(type) {
       this.$router.push('/maintenance')
     },
+  },
+  // components: { Splash },
+  head: {
+    title: 'Sovai Kean',
+    meta: [
+      {
+        hid: 'sovai',
+        name: 'description',
+        content: 'Sovai kean @SISKH',
+      },
+    ],
+    noscript: [{ innerHTML: 'Body No Scripts', body: true }],
   },
 }
 </script>
