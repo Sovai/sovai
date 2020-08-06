@@ -993,21 +993,6 @@
         uk-icon="icon: linkedin"
         @click="external"
       />
-      <!-- <span
-        uk-icon="icon: dev"
-        @click="external"
-      /> -->
-      <a
-        href="https://dev.to/sovai"
-        class="uk-padding-small uk-padding-remove-vertical"
-      >
-        <img
-          src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"
-          alt="Osip's DEV Profile"
-          height="30"
-          width="30"
-        />
-      </a>
       <span
         class="uk-padding-small uk-padding-remove-vertical"
         uk-icon="icon: facebook"
