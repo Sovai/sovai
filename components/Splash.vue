@@ -49,8 +49,6 @@ export default {
 .splash {
   font-weight: 200;
   font-size: 3.2em;
-  height: 100vh;
-  width: 100vw;
   background: $base-color;
   position: absolute;
   left: 50%;

@@ -1,11 +1,7 @@
 <template>
-  <div class="uk-container uk-margin-top">
-    <div class="uk-grid uk-flex uk-flex-center" uk-grid>
-      <div class="uk-width-2-3">
-        <app-header />
-        <Nuxt />
-      </div>
-    </div>
+  <div class="wrap">
+    <app-header />
+    <Nuxt />
   </div>
 </template>
 <script>
@@ -16,3 +12,11 @@ export default {
   },
 }
 </script>
+<style lang="scss" scoped>
+.wrap {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+</style>
