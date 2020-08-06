@@ -34,7 +34,8 @@
         </div>
       </div>
     </div> -->
-    <h1 class="uk-h1 uk-margin-remove name">Sovai (Vc3nt) Kean</h1>
+    <h1 class="uk-h1 uk-margin-remove name">Sovai Kean</h1>
+    <small>aka Vc3nt</small>
 
     <svg
       id="sovai-coding"
