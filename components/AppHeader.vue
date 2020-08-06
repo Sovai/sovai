@@ -3,16 +3,16 @@
     <div class="uk-navbar-right">
       <ul class="uk-navbar-nav">
         <li>
-          <nuxt-link to="/who-am-i">who?</nuxt-link>
+          <nuxt-link to="/maintenance">who?</nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/skill">skills</nuxt-link>
+          <nuxt-link to="/maintenance">skills</nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/projects">projects</nuxt-link>
+          <nuxt-link to="/maintenance">projects</nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/blog">blog</nuxt-link>
+          <nuxt-link to="/maintenance">blog</nuxt-link>
         </li>
       </ul>
     </div>
