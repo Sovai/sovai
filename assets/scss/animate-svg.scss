@@ -1,0 +1,177 @@
+svg#sovai-coding:not(.animated) .animable {
+  opacity: 0;
+}
+svg#sovai-coding.animated #sovai--background-simple--inject-192 {
+  animation: 1s 1 forwards ease-out slideUp;
+  animation-delay: 0s;
+}
+svg#sovai-coding.animated #el769kb7kyxlp {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
+  animation-delay: 0s;
+}
+svg#sovai-coding.animated #eliab1iymmlll {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
+  animation-delay: 0.06666666666666667s;
+  opacity: 0;
+}
+svg#sovai-coding.animated #elycrg2c0wqjq {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
+  animation-delay: 0.13333333333333333s;
+  opacity: 0;
+}
+svg#sovai-coding.animated #els2x20yvnow {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
+  animation-delay: 0.2s;
+  opacity: 0;
+}
+svg#sovai-coding.animated #elbg4gafpmto4 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
+  animation-delay: 0.26666666666666666s;
+  opacity: 0;
+}
+svg#sovai-coding.animated #elrrts532tzkr {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
+  animation-delay: 0.3333333333333333s;
+  opacity: 0;
+}
+svg#sovai-coding.animated #elawkolv5agkr {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
+  animation-delay: 0.4s;
+  opacity: 0;
+}
+svg#sovai-coding.animated #elx0d8y4omtli {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
+  animation-delay: 0.4666666666666667s;
+  opacity: 0;
+}
+svg#sovai-coding.animated #el9b0xw9im5th {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
+  animation-delay: 0.5333333333333333s;
+  opacity: 0;
+}
+svg#sovai-coding.animated #eli0zz3btbbza {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
+  animation-delay: 0.6s;
+  opacity: 0;
+}
+svg#sovai-coding.animated #elj7nth9mw7ip {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
+  animation-delay: 0.6666666666666666s;
+  opacity: 0;
+}
+svg#sovai-coding.animated #eltbajbjn6i6d {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
+  animation-delay: 0.7333333333333333s;
+  opacity: 0;
+}
+svg#sovai-coding.animated #elc7lkl35shng {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
+  animation-delay: 0.8s;
+  opacity: 0;
+}
+svg#sovai-coding.animated #eldz8szifcab8 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
+  animation-delay: 0.8666666666666667s;
+  opacity: 0;
+}
+svg#sovai-coding.animated #ely3eeojocnsd {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
+  animation-delay: 0.9333333333333333s;
+  opacity: 0;
+}
+svg#sovai-coding.animated #sovai--Codes--inject-192 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
+  animation-delay: 0s;
+}
+svg#sovai-coding.animated #sovai--Chair--inject-192 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) slideLeft;
+  animation-delay: 0s;
+}
+svg#sovai-coding.animated #sovai--Plants--inject-192 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) slideUp;
+  animation-delay: 0s;
+}
+svg#sovai-coding.animated #sovai--Character--inject-192 {
+  animation: 1s 1 forwards ease-in lightSpeedLeft;
+  animation-delay: 0s;
+}
+svg#sovai-coding.animated #sovai--Device--inject-192 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) slideRight;
+  animation-delay: 0s;
+}
+svg#sovai-coding.animated #sovai--Desk--inject-192 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) fadeIn;
+  animation-delay: 0s;
+}
+@keyframes slideUp {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: inherit;
+  }
+}
+@keyframes lightSpeedRight {
+  from {
+    transform: translate3d(50%, 0, 0) skewX(-20deg);
+    opacity: 0;
+  }
+  60% {
+    transform: skewX(10deg);
+    opacity: 1;
+  }
+  80% {
+    transform: skewX(-2deg);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes slideLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+@keyframes lightSpeedLeft {
+  from {
+    transform: translate3d(-50%, 0, 0) skewX(20deg);
+    opacity: 0;
+  }
+  60% {
+    transform: skewX(-10deg);
+    opacity: 1;
+  }
+  80% {
+    transform: skewX(2deg);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes slideRight {
+  0% {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
