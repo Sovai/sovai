@@ -35,11 +35,13 @@
 
 <script>
 export default {
+  mounted() {},
   methods: {
     external(type) {
       this.$router.push('/maintenance')
     },
   },
+
   head: {
     title: 'Sovai Kean',
     meta: [
@@ -47,6 +49,26 @@ export default {
         hid: 'sovai',
         name: 'description',
         content: 'Sovai kean @SISKH',
+      },
+      {
+        proprty: 'og:url',
+        content: 'Sovai Kean',
+      },
+      {
+        proprty: 'og:type',
+        content: 'home page',
+      },
+      {
+        proprty: 'og:title',
+        content: 'Sovai Kean',
+      },
+      {
+        proprty: 'og:description',
+        content: 'Sovai Kean',
+      },
+      {
+        proprty: 'og:image',
+        content: 'image/sovai.jpg',
       },
     ],
     noscript: [{ innerHTML: 'Body No Scripts', body: true }],
