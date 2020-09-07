@@ -5,6 +5,7 @@
   --bg: #f3f5f4 !important;
   --bg-secondary: #fff !important;
   --border-color: #ddd !important;
+  --svg-primary: #0572cc !important;
 }
 
 .dark-mode {
@@ -14,13 +15,16 @@
   --bg: #222831 !important;
   --bg-secondary: #071521 !important;
   --border-color: #ddd !important;
+  --svg-primary: #90caf9 !important;
 }
 .sepia-mode {
   --color: #433422 !important;
+  --color-primary: #d37730 !important;
   --color-secondary: #504231 !important;
   --bg: #f1e7d0 !important;
   --bg-secondary: #eae0c9 !important;
   --border-color: #ded0bf !important;
+  --svg-primary: #c95609 !important;
 }
 
 body {

@@ -68,7 +68,7 @@ export default {
       },
       {
         proprty: 'og:image',
-        content: require('image/sovai.jpg'),
+        content: '/image/sovai.jpg',
       },
     ],
     noscript: [{ innerHTML: 'Body No Scripts', body: true }],
