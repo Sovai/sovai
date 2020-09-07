@@ -44,7 +44,13 @@ export default {
    ** Auto import components
    ** See https://nuxtjs.org/api/configuration-components
    */
-  components: true,
+  components: {
+    path: '~/components/svg/',
+    // prefix: 'aex',
+    extensions: ['vue'], // Array, components inclusion
+    pattern: '', // String, components inclusion
+    ignore: [], // Array, components exclusion
+  },
   /*
    ** Nuxt.js dev-modules
    */

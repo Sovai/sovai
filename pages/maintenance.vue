@@ -11,12 +11,12 @@
       xmlns:svgjs="http://svgjs.com/svgjs"
     >
       <g
-        id="freepik--Floor--inject-7"
+        id="sovai--Floor--inject-7"
         class="animable"
         style="transform-origin: 250px 340.15px;"
       >
         <ellipse
-          id="freepik--floor--inject-7"
+          id="sovai--floor--inject-7"
           cx="250"
           cy="340.15"
           rx="235.59"
@@ -26,12 +26,12 @@
         ></ellipse>
       </g>
       <g
-        id="freepik--Shadows--inject-7"
+        id="sovai--Shadows--inject-7"
         class="animable"
         style="transform-origin: 251.078px 334.001px;"
       >
         <path
-          id="freepik--Shadow--inject-7"
+          id="sovai--Shadow--inject-7"
           d="M94.05,390.84c5.06,2.85,5.11,7.56.11,10.52s-13.15,3-18.22.19S70.83,394,75.83,391,89,388,94.05,390.84Z"
           style="
             fill: rgb(224, 224, 224);
@@ -40,7 +40,7 @@
           class="animable"
         ></path>
         <path
-          id="freepik--shadow--inject-7"
+          id="sovai--shadow--inject-7"
           d="M228,354.53l-49-28a3.18,3.18,0,0,0-2.88,0l-.51.29c-.8.46-.79,1.2,0,1.64l16.69,9.34L175.2,347.7l-16.49-9.52a3.18,3.18,0,0,0-2.88,0l-.51.29a.88.88,0,0,0,0,1.67l49.8,28.75.54-.64.27.15,19.66-11.33.15.09.29-.34.42-.24-.15-.09Z"
           style="
             fill: rgb(224, 224, 224);
@@ -49,7 +49,7 @@
           class="animable"
         ></path>
         <path
-          id="freepik--shadow--inject-7"
+          id="sovai--shadow--inject-7"
           d="M174.43,436.83l24.1-13.91a1,1,0,0,0,0-1.87l-24.1-13.91a3.62,3.62,0,0,0-3.24,0L147.1,421.05a1,1,0,0,0,0,1.87l24.09,13.91A3.56,3.56,0,0,0,174.43,436.83Z"
           style="
             fill: rgb(224, 224, 224);
@@ -58,13 +58,13 @@
           class="animable"
         ></path>
         <path
-          id="freepik--shadow--inject-7"
+          id="sovai--shadow--inject-7"
           d="M347.69,421.39l24.09-13.92a1,1,0,0,0,0-1.87l-24.09-13.91a3.62,3.62,0,0,0-3.24,0L320.36,405.6a1,1,0,0,0,0,1.87l24.09,13.92A3.62,3.62,0,0,0,347.69,421.39Z"
           style="fill: rgb(224, 224, 224); transform-origin: 346.07px 406.54px;"
           class="animable"
         ></path>
         <path
-          id="freepik--shadow--inject-7"
+          id="sovai--shadow--inject-7"
           d="M243.5,435.33l-28.32-16.41a.71.71,0,0,1,0-1.35L283,378.39a2.61,2.61,0,0,1,2.34,0l28.37,16.38a.71.71,0,0,1,0,1.35l-67.91,39.21A2.61,2.61,0,0,1,243.5,435.33Z"
           style="
             fill: rgb(224, 224, 224);
@@ -73,7 +73,7 @@
           class="animable"
         ></path>
         <path
-          id="freepik--shadow--inject-7"
+          id="sovai--shadow--inject-7"
           d="M379.44,376.39l-59.86-34.56c-4.78-2.76-4.78-7.23,0-10l68-39.25c4.79-2.76,12.54-2.76,17.32,0l59.86,34.56c4.79,2.77,4.79,7.24,0,10l-68,39.25C392,379.15,384.22,379.15,379.44,376.39Z"
           style="
             fill: rgb(224, 224, 224);
@@ -82,7 +82,7 @@
           class="animable"
         ></path>
         <path
-          id="freepik--shadow--inject-7"
+          id="sovai--shadow--inject-7"
           d="M56.91,382.49,34.7,369.67a1.32,1.32,0,0,1,0-2.5L270,231.3a4.79,4.79,0,0,1,4.33,0l22.21,12.82a1.32,1.32,0,0,1,0,2.5L61.24,382.49A4.79,4.79,0,0,1,56.91,382.49Z"
           style="
             fill: rgb(224, 224, 224);
@@ -91,7 +91,7 @@
           class="animable"
         ></path>
         <path
-          id="freepik--shadow--inject-7"
+          id="sovai--shadow--inject-7"
           d="M145.2,362c5.94,3.35,6,8.87.13,12.34s-15.43,3.58-21.37.23-6-8.87-.13-12.34S139.26,358.64,145.2,362Z"
           style="
             fill: rgb(224, 224, 224);
@@ -101,12 +101,12 @@
         ></path>
       </g>
       <g
-        id="freepik--Gears--inject-7"
+        id="sovai--Gears--inject-7"
         class="animable"
         style="transform-origin: 104.084px 97.585px;"
       >
         <g
-          id="freepik--gears--inject-7"
+          id="sovai--gears--inject-7"
           class="animable"
           style="transform-origin: 104.084px 97.585px;"
         >
@@ -407,12 +407,12 @@
         </g>
       </g>
       <g
-        id="freepik--Cones--inject-7"
+        id="sovai--Cones--inject-7"
         class="animable"
         style="transform-origin: 259.45px 403.424px;"
       >
         <g
-          id="freepik--Cone--inject-7"
+          id="sovai--Cone--inject-7"
           class="animable"
           style="transform-origin: 172.82px 411.155px;"
         >
@@ -531,7 +531,7 @@
           </g>
         </g>
         <g
-          id="freepik--cone--inject-7"
+          id="sovai--cone--inject-7"
           class="animable"
           style="transform-origin: 346.07px 395.675px;"
         >
@@ -651,12 +651,12 @@
         </g>
       </g>
       <g
-        id="freepik--Plant--inject-7"
+        id="sovai--Plant--inject-7"
         class="animable"
         style="transform-origin: 35.6179px 344.936px;"
       >
         <g
-          id="freepik--Plants--inject-7"
+          id="sovai--Plants--inject-7"
           class="animable"
           style="transform-origin: 35.6179px 344.936px;"
         >
@@ -706,17 +706,17 @@
         </g>
       </g>
       <g
-        id="freepik--Window--inject-7"
+        id="sovai--Window--inject-7"
         class="animable"
         style="transform-origin: 191.534px 207.636px;"
       >
         <g
-          id="freepik--window--inject-7"
+          id="sovai--window--inject-7"
           class="animable"
           style="transform-origin: 191.534px 207.636px;"
         >
           <g
-            id="freepik--window--inject-7"
+            id="sovai--window--inject-7"
             class="animable"
             style="transform-origin: 173.059px 207.636px;"
           >
@@ -960,7 +960,7 @@
             class="animable"
           ></path>
           <g
-            id="freepik--Text--inject-7"
+            id="sovai--Text--inject-7"
             class="animable"
             style="transform-origin: 129.135px 302.708px;"
           >
@@ -1920,7 +1920,7 @@
             class="animable"
           ></path>
           <g
-            id="freepik--gears--inject-7"
+            id="sovai--gears--inject-7"
             class="animable"
             style="transform-origin: 289px 139.835px;"
           >
@@ -2305,12 +2305,12 @@
         </g>
       </g>
       <g
-        id="freepik--Crane--inject-7"
+        id="sovai--Crane--inject-7"
         class="animable"
         style="transform-origin: 376.94px 227.781px;"
       >
         <g
-          id="freepik--Vehicle--inject-7"
+          id="sovai--Vehicle--inject-7"
           class="animable"
           style="transform-origin: 376.94px 227.781px;"
         >
@@ -2339,7 +2339,7 @@
             class="animable"
           ></polygon>
           <g
-            id="freepik--Image--inject-7"
+            id="sovai--Image--inject-7"
             class="animable"
             style="transform-origin: 322.207px 158.312px;"
           >
@@ -3725,12 +3725,12 @@
         </g>
       </g>
       <g
-        id="freepik--Barrier--inject-7"
+        id="sovai--Barrier--inject-7"
         class="animable"
         style="transform-origin: 263.588px 376.672px;"
       >
         <g
-          id="freepik--barrier--inject-7"
+          id="sovai--barrier--inject-7"
           class="animable"
           style="transform-origin: 263.588px 376.672px;"
         >
@@ -3829,7 +3829,7 @@
             class="animable"
           ></path>
           <g
-            id="freepik--Clock--inject-7"
+            id="sovai--Clock--inject-7"
             class="animable"
             style="transform-origin: 287.929px 328.632px;"
           >
@@ -3971,7 +3971,7 @@
             class="animable"
           ></path>
           <g
-            id="freepik--clock--inject-7"
+            id="sovai--clock--inject-7"
             class="animable"
             style="transform-origin: 237.486px 357.799px;"
           >
@@ -4354,12 +4354,12 @@
         </g>
       </g>
       <g
-        id="freepik--Character--inject-7"
+        id="sovai--Character--inject-7"
         class="animable"
         style="transform-origin: 192.366px 277.031px;"
       >
         <g
-          id="freepik--character--inject-7"
+          id="sovai--character--inject-7"
           class="animable"
           style="transform-origin: 192.366px 277.031px;"
         >
@@ -4777,7 +4777,7 @@
             class="animable"
           ></path>
           <g
-            id="freepik--Brush--inject-7"
+            id="sovai--Brush--inject-7"
             class="animable"
             style="transform-origin: 166.403px 201.764px;"
           >
@@ -5008,12 +5008,12 @@
         </g>
       </g>
       <g
-        id="freepik--Sign--inject-7"
+        id="sovai--Sign--inject-7"
         class="animable"
         style="transform-origin: 86.4013px 321.585px;"
       >
         <g
-          id="freepik--Signal--inject-7"
+          id="sovai--Signal--inject-7"
           class="animable"
           style="transform-origin: 86.4013px 321.585px;"
         >
@@ -5107,12 +5107,12 @@
         </g>
       </g>
       <g
-        id="freepik--Paint--inject-7"
+        id="sovai--Paint--inject-7"
         class="animable"
         style="transform-origin: 134.082px 356.589px;"
       >
         <g
-          id="freepik--paint--inject-7"
+          id="sovai--paint--inject-7"
           class="animable"
           style="transform-origin: 134.082px 356.589px;"
         >
@@ -5246,47 +5246,47 @@ svg#maintenance {
 svg#maintenance:not(.animated) .animable {
   opacity: 0;
 }
-svg#maintenance.animated #freepik--Floor--inject-7 {
+svg#maintenance.animated #sovai--Floor--inject-7 {
   animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) slideRight;
   animation-delay: 0s;
 }
-svg#maintenance.animated #freepik--Shadows--inject-7 {
+svg#maintenance.animated #sovai--Shadows--inject-7 {
   animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedLeft;
   animation-delay: 0s;
 }
-svg#maintenance.animated #freepik--Gears--inject-7 {
+svg#maintenance.animated #sovai--Gears--inject-7 {
   animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) slideDown;
   animation-delay: 0s;
 }
-svg#maintenance.animated #freepik--Cones--inject-7 {
+svg#maintenance.animated #sovai--Cones--inject-7 {
   animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedRight;
   animation-delay: 0s;
 }
-svg#maintenance.animated #freepik--Plant--inject-7 {
+svg#maintenance.animated #sovai--Plant--inject-7 {
   animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) zoomOut;
   animation-delay: 0s;
 }
-svg#maintenance.animated #freepik--Window--inject-7 {
+svg#maintenance.animated #sovai--Window--inject-7 {
   animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) slideUp;
   animation-delay: 0s;
 }
-svg#maintenance.animated #freepik--Crane--inject-7 {
+svg#maintenance.animated #sovai--Crane--inject-7 {
   animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) slideLeft;
   animation-delay: 0s;
 }
-svg#maintenance.animated #freepik--Barrier--inject-7 {
+svg#maintenance.animated #sovai--Barrier--inject-7 {
   animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) zoomIn;
   animation-delay: 0s;
 }
-svg#maintenance.animated #freepik--Character--inject-7 {
+svg#maintenance.animated #sovai--Character--inject-7 {
   animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) zoomIn;
   animation-delay: 0s;
 }
-svg#maintenance.animated #freepik--Sign--inject-7 {
+svg#maintenance.animated #sovai--Sign--inject-7 {
   animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedLeft;
   animation-delay: 0s;
 }
-svg#maintenance.animated #freepik--Paint--inject-7 {
+svg#maintenance.animated #sovai--Paint--inject-7 {
   animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) slideUp;
   animation-delay: 0s;
 }
