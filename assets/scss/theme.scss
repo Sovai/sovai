@@ -2,29 +2,32 @@
   --color: #243746 !important;
   --color-primary: #f2a365 !important;
   --color-secondary: #0e2233 !important;
-  --bg: #f3f5f4 !important;
+  --bg: #d8dddb !important;
   --bg-secondary: #fff !important;
   --border-color: #ddd !important;
   --svg-primary: #0572cc !important;
+  --svg-secondary: #90caf9 !important;
 }
 
 .dark-mode {
   --color: #ebecf1 !important;
-  --color-primary: #f2a365 !important;
+  --color-primary: #243746 !important;
   --color-secondary: #ececec !important;
   --bg: #222831 !important;
   --bg-secondary: #071521 !important;
   --border-color: #ddd !important;
-  --svg-primary: #90caf9 !important;
+  --svg-primary: #62a3d8 !important;
+  --svg-secondary: #8aacc7 !important;
 }
 .sepia-mode {
   --color: #433422 !important;
-  --color-primary: #d37730 !important;
+  --color-primary: #8d5022 !important;
   --color-secondary: #504231 !important;
   --bg: #f1e7d0 !important;
   --bg-secondary: #eae0c9 !important;
   --border-color: #ded0bf !important;
   --svg-primary: #c95609 !important;
+  --svg-secondary: #db712b !important;
 }
 
 body {
