@@ -1,5 +1,5 @@
 <template>
-  <div class="uk-text-center">
+  <div class="uk-text-center uk-container">
     <h3>awww... thanks for checking, I'll work on this soon 🧏🏻‍♂️</h3>
     <svg
       id="maintenance"
@@ -21,7 +21,7 @@
           cy="340.15"
           rx="235.59"
           ry="128.96"
-          style="fill: rgb(245, 245, 245); transform-origin: 250px 340.15px;"
+          style="fill: var(--svg-primary); transform-origin: 250px 340.15px;"
           class="animable"
         ></ellipse>
       </g>
@@ -5240,9 +5240,6 @@ export default {}
 </script>
 
 <style scoped>
-svg#maintenance {
-  max-width: 600px;
-}
 svg#maintenance:not(.animated) .animable {
   opacity: 0;
 }
@@ -5382,6 +5379,17 @@ svg#maintenance.animated #sovai--Paint--inject-7 {
   100% {
     opacity: 1;
     transform: scale(1);
+  }
+}
+
+svg {
+  width: 100%;
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+
+  @media only screen and (min-width: 768px) {
+    width: 500px;
   }
 }
 </style>
