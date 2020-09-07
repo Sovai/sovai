@@ -1,14 +1,14 @@
-Skip to content Search or jump to… Pull requests Issues Marketplace Explore
-@Sovai nuxt-community / color-mode-module 11 35428 Code Issues 5 Pull requests 5
-Actions Projects Wiki Security Insights
-color-mode-module/example/components/ColorModePicker.vue @debs-obrien
-debs-obrien fix: fix correct spelling for preferred (#9) Latest commit 8f65b8d
-on Apr 30 History 3 contributors @Atinux@pi0@debs-obrien 90 lines (87 sloc) 1.82
-KB
-
 <template>
   <div>
-    <ul>
+    <component
+      :is="`icon-${colors[index]}`"
+      :class="getClasses(colors[index])"
+      @click="
+        index === colors.length - 1 ? (index = 0) : index++
+        $colorMode.preference = colors[index]
+      "
+    />
+    <!-- <ul>
       <li v-for="color of colors" :key="color">
         <component
           :is="`icon-${color}`"
@@ -16,7 +16,7 @@ KB
           @click="$colorMode.preference = color"
         />
       </li>
-    </ul>
+    </ul> -->
     <!-- <p>
       <ColorScheme placeholder="..." tag="span">
         Color mode: <b>{{ $colorMode.preference }}</b>
@@ -29,20 +29,21 @@ KB
 </template>
 
 <script>
-import IconSystem from '@/assets/icons/system.svg?inline'
+// import IconSystem from '@/assets/icons/system.svg?inline'
 import IconLight from '@/assets/icons/light.svg?inline'
 import IconDark from '@/assets/icons/dark.svg?inline'
 import IconSepia from '@/assets/icons/sepia.svg?inline'
 export default {
   components: {
-    IconSystem,
+    // IconSystem,
     IconLight,
     IconDark,
     IconSepia,
   },
   data() {
     return {
-      colors: ['system', 'light', 'dark', 'sepia'],
+      index: 0,
+      colors: ['dark', 'light', 'sepia'],
     }
   },
   methods: {

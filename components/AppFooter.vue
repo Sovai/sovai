@@ -16,5 +16,6 @@ footer {
   bottom: 0;
   width: 100%;
   height: 35px;
+  right: 15px;
 }
 </style>
