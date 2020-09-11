@@ -35,6 +35,8 @@ export default {
    ** Global CSS
    */
   css: ['@/assets/scss/app.scss'],
+  loading: '~/components/loading.vue',
+
   /*
    ** Plugins to load before mounting the App
    ** https://nuxtjs.org/guide/plugins
