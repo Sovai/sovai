@@ -1,20 +1,14 @@
-# sovai
+## Sovai Kean | Vc3nt
 
-## Build Setup
+- 🔭 I'm currently working on ... web development 🏚
+- 🌱 I'm currently learning ... nuxt.js, laravel
+- 📫 How to reach me: ... Discord: Vc3nt#1577
+- 😄 Pronouns: ... He
 
-```bash
-# install dependencies
-$ yarn install
+---
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+[![Sovai's github stats](https://sovai-github-stats.vercel.app/api?username=sovai&hide=stars,contribs&show_icons=true&theme=onedark)](https://github.com/sovai)
 
-# build for production and launch server
-$ yarn build
-$ yarn start
+[![Top Langs](https://sovai-github-stats.vercel.app/api/top-langs/?username=sovai&layout=compact)](https://github.com/sovai)
 
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+[![Sovai's wakatime stats](https://sovai-github-stats.vercel.app/api/wakatime?username=sovai)](https://github.com/sovai)

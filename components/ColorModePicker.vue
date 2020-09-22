@@ -8,23 +8,6 @@
         $colorMode.preference = colors[index]
       "
     />
-    <!-- <ul>
-      <li v-for="color of colors" :key="color">
-        <component
-          :is="`icon-${color}`"
-          :class="getClasses(color)"
-          @click="$colorMode.preference = color"
-        />
-      </li>
-    </ul> -->
-    <!-- <p>
-      <ColorScheme placeholder="..." tag="span">
-        Color mode: <b>{{ $colorMode.preference }}</b>
-        <span v-if="$colorMode.preference === 'system'"
-          >(<i>{{ $colorMode.value }}</i> mode detected)</span
-        >
-      </ColorScheme>
-    </p> -->
   </div>
 </template>
 
@@ -45,6 +28,9 @@ export default {
       index: 0,
       colors: ['dark', 'light', 'sepia'],
     }
+  },
+  created() {
+    this.$colorMode.preference = 'dark'
   },
   methods: {
     getClasses(color) {

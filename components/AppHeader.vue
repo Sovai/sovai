@@ -12,7 +12,7 @@
           <nuxt-link to="/maintenance">projects</nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/tools">tools</nuxt-link>
+          <nuxt-link to="https://it-tools.tech/git-memo">tools</nuxt-link>
         </li>
         <li>
           <nuxt-link to="/maintenance">blog</nuxt-link>
