@@ -1,17 +1,20 @@
 <template>
   <div class="wrap">
     <app-header />
+    <app-widget />
     <Nuxt />
     <app-footer />
   </div>
 </template>
 <script>
 import AppHeader from '~/components/AppHeader'
+import AppWidget from '~/components/AppWidget'
 import AppFooter from '~/components/AppFooter'
 export default {
   components: {
     AppHeader,
     AppFooter,
+    AppWidget,
   },
 }
 </script>

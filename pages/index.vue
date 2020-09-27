@@ -1,7 +1,7 @@
 <template>
   <div class="image uk-text-center">
     <h1 class="uk-h1 uk-margin-remove name">
-      Sovai Kean
+      <span>S</span>ovai <span>K</span>ean
     </h1>
     <small>aka Vc3nt</small>
 
@@ -43,12 +43,17 @@ export default {
   },
 
   head: {
-    title: 'Sovai Kean',
+    title: 'Sovai Kean - Portfolio',
     meta: [
+      {
+        name: 'title',
+        content: 'Sovai Kean - Portfolio',
+      },
       {
         hid: 'sovai',
         name: 'description',
-        content: 'Sovai kean @SISKH',
+        content:
+          'Welcome to sovai.dev, my official portfolio. You can find my CV, projects, and all my blog posts.',
       },
       {
         proprty: 'og:url',
@@ -87,7 +92,12 @@ export default {
 }
 
 .name {
+  text-transform: uppercase;
+  font-size: 27px;
   font-family: 'Rajdhani';
+  span {
+    font-size: 37px;
+  }
 }
 .icons span:hover {
   color: var(--color-primary);

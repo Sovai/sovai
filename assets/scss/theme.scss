@@ -30,6 +30,12 @@
   --svg-secondary: #db712b !important;
 }
 
+html.dark-mode body {
+    background-image: url(~assets/star-bg.svg),
+      linear-gradient(var(--bg), var(--bg) 15%);
+    background-repeat: repeat-x;
+    background-position: center 0, 0 0, 0 0;
+}
 body {
   background-color: var(--bg);
   color: var(--color);
