@@ -90,7 +90,7 @@ export default {
   font-family: 'Rajdhani';
 }
 .icons span:hover {
-  color: --color-primary;
+  color: var(--color-primary);
   cursor: pointer;
 }
 </style>

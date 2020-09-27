@@ -933,6 +933,53 @@ export default {}
 </script>
 
 <style scoped lang="scss">
+$height: -2px;
+path#elk1oa9oyhv4,
+path#elzxj4xfhfkpl {
+  -webkit-animation: eyebrows 2.5s infinite alternate;
+  animation: eyebrows 2.5s infinite alternate;
+}
+path#elh5apok6d35,
+path#elibkrjid69h,
+path#eld270mlu92zs,
+path#elygkumgli5f,
+path#elvx5xz3kw87f {
+  -webkit-animation: hand 1s infinite alternate
+    cubic-bezier(0.34, 1.56, 0.64, 1);
+  animation: hand 1s infinite alternate cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+@-webkit-keyframes eyebrows {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY($height);
+  }
+}
+@keyframes eyebrows {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY($height);
+  }
+}
+@-webkit-keyframes hand {
+  0% {
+    transform: translateY(3px);
+  }
+  100% {
+    transform: translateY(-3px);
+  }
+}
+@keyframes hand {
+  0% {
+    transform: translateY(3px);
+  }
+  100% {
+    transform: translateY(-3px);
+  }
+}
 svg {
   width: 300px;
   display: block;

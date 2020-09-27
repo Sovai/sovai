@@ -3,3 +3,13 @@
   color: var(--color-primary);
   font-family: 'Rajdhani', sans-serif;
 }
+
+.page-enter-active,
+.page-leave-active {
+  transition: opacity 0.25s, transform 0.25s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+.page-enter,
+.page-leave-active {
+  opacity: 0;
+  transform: translateY(0.875em);
+}
