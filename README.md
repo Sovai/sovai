@@ -12,9 +12,9 @@
   <img align="left" alt="Sovai's Telegram" width="22px" src="https://img.icons8.com/doodle/48/000000/telegram-app.png" />
 </a>
 
-<br />
+<hr />
 
-Hi, I'm [Sovai Kean](https://sovai.dev), a Frontend Developer from Cambodia. Beside programming, I'm a hardcore otaku, Genshin Impact farmer and I like dogs.. alot <img width="18px" src="https://img.icons8.com/fluent-systems-regular/24/000000/dog.png"/>  
+Hi, I'm [Sovai Kean](https://sovai.dev), a Frontend Developer from Cambodia (check my [portfolio](https://sovai.dev) to know moew about me, yes moew). Beside programming, I'm a hardcore otaku, Genshin Impact farmer and I like dogs.. alot <img width="18px" src="https://img.icons8.com/fluent-systems-regular/24/000000/dog.png"/>  
 
 **Languages and Tools:**  
 
@@ -22,11 +22,10 @@ Hi, I'm [Sovai Kean](https://sovai.dev), a Frontend Developer from Cambodia. Bes
 <code><img height="20" src="https://img.icons8.com/windows/32/000000/angularjs.png"/></code>
 <code><img height="20" src="https://img.icons8.com/windows/32/000000/uikit.png"/></code>
 <code><img height="20" src="https://img.icons8.com/material/24/000000/git.png"/></code>
-<code><img height="20" src="https://img.icons8.com/ios-glyphs/30/000000/visual-studio.png"/> </code>
+<code><img height="20" src="https://img.icons8.com/ios-glyphs/30/000000/visual-studio.png"/></code>
 
 
 <br />
-<img align="right" alt="GIF" src="https://www.sovai.dev/image/code.gif?raw=true" width="500" height="320" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sovai)
 
@@ -37,4 +36,5 @@ Hi, I'm [Sovai Kean](https://sovai.dev), a Frontend Developer from Cambodia. Bes
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sovai&show_icons=true&theme=gotham" alt="sovai" />
 
 </details>
+<img align="right" alt="GIF" src="https://www.sovai.dev/image/code.gif?raw=true" width="500" height="320" />
 
