@@ -29,12 +29,6 @@ Hi, I'm [Sovai Kean](https://sovai.dev), a Frontend Developer from Cambodia (che
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sovai)
 
-<details>
-  <br />
-<summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sovai&show_icons=true&theme=gotham" alt="sovai" />
-
-</details>
 <img align="right" alt="GIF" src="https://www.sovai.dev/image/code.gif?raw=true" width="500" height="320" />
 
