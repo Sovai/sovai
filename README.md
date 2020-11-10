@@ -29,6 +29,6 @@ Hi, I'm [Sovai Kean](https://sovai.dev) (Vc3nt), a Frontend Developer from Cambo
 
 <br />
 
-![](https://visitor-badge.glitch.me/badge?page_id=sovai)
+![](https://visitor-badge.glitch.me/badge?page_id=sovai) [![Netlify Status](https://api.netlify.com/api/v1/badges/aa465f89-0d9d-4323-b07b-dd2c2864941f/deploy-status)](https://app.netlify.com/sites/sovai/deploys)
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=Sovai&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sovai's GitHub Stats" width="45%">
