@@ -15,7 +15,7 @@
 
 <hr />
 
-Hi, I'm [Sovai Kean](https://sovai.dev) (Vc3nt), a Frontend Developer from Cambodia (check my [portfolio](https://sovai.dev) to know meow about me, yes meow). Beside programming, I'm a hardcore otaku, Genshin Impact farmer and I like dogs.. alot <img width="18px" src="https://img.icons8.com/fluent-systems-regular/24/000000/dog.png"/>
+Hi, I'm [Sovai Kean](https://sovai.dev) (Vc3nt), a Frontend Developer from Cambodia (check my [portfolio](https://sovai.dev) to know more about me). Beside programming, I'm a hardcore otaku, Genshin Impact farmer and I like dogs.. alot <img width="18px" src="https://img.icons8.com/fluent-systems-regular/24/000000/dog.png"/>
 
 <img hight="400" width="50%" alt="GIF" align="right" src="https://www.sovai.dev/image/code.gif?raw=true">
 
