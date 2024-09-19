@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sovai |Frontend Developer </h1>
+<h1 align="center">Hi 👋, I'm Sovai | Frontend Developer </h1>
 <h3 align="center">Royal University of Phnom Penh</h3>
 
-- 🔭 I’m currently working on **NeathHotel MERN**
+- Currently working on **NeathHotel MERN**
 
-- 🌱 I’m currently learning **FullSatck Development** | **Remixjs**
+- Currently learning **FullStack Development** | **Remixjs**
 
-- 💬 Ask me about **VueJs**
+- Ask me about **VueJs**
 
-- 📫 How to reach me [**keansovai@gmail.com**](mailto:keansovai@gmail.com)
+- Reach me at [**keansovai@gmail.com**](mailto:keansovai@gmail.com)
 
-- 📄 [Know about my experiences](https://sovai.dev)
+- [My portfolio](https://sovai.dev)
 
-- ⚡ Fun fact **Cambodian ❤️**
+- From **Cambodia ❤️**
 
 &nbsp;
 
@@ -47,6 +47,5 @@
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sovai&show_icons=true&theme=dark&locale=en" alt="sovai" />
 </div>
-
 
 ![](https://komarev.com/ghpvc/?username=sovai)
