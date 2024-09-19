@@ -37,8 +37,4 @@
 
 &nbsp;
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sovai&show_icons=true&theme=dark&locale=en" alt="sovai" />
-</div>
-
 ![](https://komarev.com/ghpvc/?username=sovai)
