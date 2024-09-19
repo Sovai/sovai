@@ -6,7 +6,7 @@
 - Ask me about **VueJs**
 - Reach me at [**keansovai@gmail.com**](mailto:keansovai@gmail.com)
 - [My portfolio](https://sovai.dev)
-- From **Cambodia ߡߡߡ**
+- From **Cambodia ≙≜≙**
 
 &nbsp;
 
