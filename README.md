@@ -2,15 +2,10 @@
 <h3 align="center">Royal University of Phnom Penh</h3>
 
 - Currently working on **NeathHotel MERN**
-
 - Currently learning **FullStack Development** | **Remixjs**
-
 - Ask me about **VueJs**
-
 - Reach me at [**keansovai@gmail.com**](mailto:keansovai@gmail.com)
-
 - [My portfolio](https://sovai.dev)
-
 - From **Cambodia ❤️**
 
 &nbsp;
