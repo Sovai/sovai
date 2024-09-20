@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Sovai | Frontend Developer </h1>
-<h4 align="center">Royal University of Phnom Penh</h4>
+<h1 align="center">Hi there 👋 </h1>
 
 - Currently working on **NeathHotel MERN**
 - Currently learning **FullStack Development** | **Remixjs**
