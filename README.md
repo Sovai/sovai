@@ -8,7 +8,7 @@
 - From **Cambodia ≙≜≙**
 
 &nbsp;
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,azure,react,vue,react,nextjs,angular,nodejs,postman,pnpm,npm,vitejs,playwright,figma,xd, tailwindcss,mongodb,amazonwebservices,digitalocean,sentry,ionic,swiper,notion,markdown&perline=3)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,azure,react,vue,react,nextjs,angular,nodejs,postman,pnpm,npm,vitejs,playwright,figma,xd, tailwindcss,mongodb,amazonwebservices,digitalocean,sentry,ionic,swiper,notion,markdown&perline=3" />
 
 
 
