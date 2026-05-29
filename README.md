@@ -1,9 +1,10 @@
-# Hi there 👋
-*Spending 10 hours automating a 10-second task.*
+# hello.
+
+ _currently spending 10 hours automating a 10-second task._
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 
-## My side-hobby tools
+## Scratching my own itch
 
 - **[sovai.dev](https://sovai.dev)**: Personal portal and directory.
 - **[getatos.app](https://getatos.app)**: Agile task tracker and developer workspace.
