@@ -11,6 +11,7 @@
 - **[lottie-optimizer.sovai.dev](https://lottie-optimizer.sovai.dev)**: Lottie animation JSON compressor.
 - **[vue-bottom-sheet.sovai.dev](https://vue-bottom-sheet.sovai.dev)**: Swipeable bottom sheet component documentation.
 - **[image-tools.sovai.dev](https://image-tools.sovai.dev)**: Client-side bulk WebP converter and optimizer.
+- **[invoice.sovai.dev](https://invoice.sovai.dev)**: Client-side invoice builder.
 - **[ex2i18n.sovai.dev](https://ex2i18n.sovai.dev)**: Excel/CSV to Nuxt i18n JSON converter.
 - **[git-flow.sovai.dev](https://git-flow.sovai.dev)**: GitFlow branching methodology guide.
 - **[meas.sovai.dev](https://meas.sovai.dev)**: Real-time gold price tracker (Cambodia).
